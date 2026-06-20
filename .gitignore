@@ -1,0 +1,8 @@
+build/
+*.exe
+*.o
+*.obj
+.vscode/
+.idea/
+evidence_files/
+.agents/
