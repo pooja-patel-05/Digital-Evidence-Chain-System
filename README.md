@@ -96,9 +96,3 @@ evidenceId,fromPerson,toPerson,transferDate
 ```text
 username,password,role
 ```
-
-## Version note
-
-Version 1.0 uses `std::hash<std::string>` as requested. It is suitable for a
-classroom demonstration, but not for real forensic integrity. A later version
-should use SHA-256 and securely hashed user passwords.
